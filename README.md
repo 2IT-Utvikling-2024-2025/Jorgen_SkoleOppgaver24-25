@@ -1,1 +1,1 @@
-This a place i do things that interest me. (orrr school has me do git, u choose)
+This is a place i learn coding, do not expect any perfect code.
