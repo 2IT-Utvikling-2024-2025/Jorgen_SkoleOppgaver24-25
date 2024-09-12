@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin-top: 0 auto;
+  padding: 100px;
+  text-align: center;
+}
+
+.mainTitle {
+  max-width: 1280px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.subTitle {
+  max-width: 1280px;
+  margin-top: 70px;
+  margin-left: 20px;
+  text-align: left;   
+}
+
+.text {
+  max-width: 1280px;
+  margin-left: 20px;
+  text-align: left;  
+}
