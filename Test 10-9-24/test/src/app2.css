@@ -1,0 +1,43 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+
+
+    .Indonesia {
+        border-radius: 25px;
+        background: #89cff0;
+        padding: 30px;
+        width: 400px;
+        height: 300px;
+        
+        }
+
+        .Spania {
+            border-radius: 25px;
+            background: #89cff0;
+            padding: 30px;
+            width: 400px;
+            height: 300px;
+            
+            }
+
+            .India {
+        border-radius: 25px;
+        background: #89cff0;
+        padding: 30px;
+        width: 400px;
+        height: 300px;
+        
+        }
+
+        .Japan {
+            border-radius: 25px;
+            background: #89cff0;
+            padding: 30px;
+            width: 400px;
+            height: 300px;
+            
+            }
