@@ -1,10 +1,10 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import App from './comps/App.jsx'
 import './index.css'
+import Isodd from './App2.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <App />
+    <Isodd />
   </StrictMode>,
 )
